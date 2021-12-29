@@ -3,3 +3,5 @@ rencana2 = bikin komunitas koding
 rencana3 = jualan buku
 
 "aku tak kenal lelah dan putus asa"
+"seorang pejuang pasti berjuang"
+
