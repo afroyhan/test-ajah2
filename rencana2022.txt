@@ -1,5 +1,4 @@
 rencana1 = bikin web belajar
 rencana2 = bikin komunitas koding
 rencana3 = jualan buku
-rencana4 = bikin channel koding
-rencana5 = jualan kelas
+
